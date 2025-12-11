@@ -56,7 +56,7 @@
         <code>Python</code> <code>NLP</code> <code>Next.js</code> <code>COMET</code>
       </p>
       <p align="center">
-        <a href="https://github.com/AlySerry0/Medical-History-Platform---Chatbot">View Project</a>
+        <a href="https://github.com/NourSaber0/Medical-History-Platform---Chatbot">View Project</a>
       </p>
     </td>
     <td width="50%">
