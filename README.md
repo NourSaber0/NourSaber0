@@ -77,6 +77,6 @@
 
 ### ⚡ GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NourSaberO&show_icons=true&theme=radical" height="150" alt="Nour's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NourSaberO&layout=compact&theme=radical" height="150" alt="Nour's Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NourSaber0&show_icons=true&theme=radical" height="150" alt="Nour's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NourSaber0&layout=compact&theme=radical" height="150" alt="Nour's Top Langs" />
 </div>
