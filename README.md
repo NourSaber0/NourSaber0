@@ -67,7 +67,7 @@
         <code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Express</code>
       </p>
       <p align="center">
-        <a href="https://github.com/Advanced-computer-lab-2024/gemini-contect-reducer">View Project</a>
+        <a href="https://github.com/Advanced-computer-lab-2024/gemini-context-reducer">View Project</a>
       </p>
     </td>
   </tr>
